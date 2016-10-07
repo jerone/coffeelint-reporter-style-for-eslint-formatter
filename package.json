@@ -1,0 +1,24 @@
+{
+  "name": "coffeelint-reporter-style-for-eslint-formatter",
+  "version": "0.1.0",
+  "description": "An ESLint formatter in style of CoffeeLint default reporter",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerone/coffeelint-reporter-style-for-eslint-formatter.git"
+  },
+  "keywords": [
+    "ESLint",
+    "CoffeeLint",
+    "Linter"
+  ],
+  "author": "Jeroen van Warmerdam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerone/coffeelint-reporter-style-for-eslint-formatter/issues"
+  },
+  "homepage": "https://github.com/jerone/coffeelint-reporter-style-for-eslint-formatter#readme"
+}
